@@ -64,7 +64,7 @@ Motto:
 > *"I may not know everything today, but every project teaches me something new."*
 
 ---
-<div align="center">
+
   
 # 🛠️ Tech Toolbox
 
@@ -95,6 +95,8 @@ Motto:
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### Analytics
 
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
