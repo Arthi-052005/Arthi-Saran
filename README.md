@@ -4,7 +4,7 @@
 
 # ✨ Hey, I'm Arthi Saran 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Student+Developer+%F0%9F%92%BB;Full-Stack+Explorer+%F0%9F%9A%80;Building+Projects+One+Commit+At+A+Time+%E2%9C%A8;Learning+%7C+Creating+%7C+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Student+Developer+💻;Full-Stack+Explorer+🚀;Building+Projects+One+Commit+At+A+Time+✨;Learning+|+Creating+|+Growing" alt="Typing SVG" />
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 
@@ -65,7 +65,6 @@ Motto:
 
 ---
 
-  
 # 🛠️ Tech Toolbox
 
 <div align="center">
