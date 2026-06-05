@@ -94,8 +94,9 @@ Motto:
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 </p>
-</div>
 ---
+</div>
+
 
 # 🚀 What I'm Doing Right Now
 
