@@ -90,14 +90,10 @@ Motto:
 
 ### Testing
 
-<img src="https://skillicons.dev/icons?i=playwright" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-
-</div>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+</p>
 ---
 
 # 🚀 What I'm Doing Right Now
